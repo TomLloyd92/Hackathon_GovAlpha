@@ -22,10 +22,10 @@ module.exports = async function (deployer) {
     const governorAlphaAddress = governorAlpha.address;
 
 
-    console.log("THE FOLLOWING ADDRESSES HAVE BEEN DEPLOYED:")
-    console.log(`The Time lock Address is: ${timelockAddress}`);
-    console.log(`The Tom Token Address is: ${tomTokenAddress}`);
-    console.log(`The Gov Alpha Address is: ${governorAlphaAddress}`);
+    //console.log("THE FOLLOWING ADDRESSES HAVE BEEN DEPLOYED:")
+    //console.log(`The Time lock Address is: ${timelockAddress}`);
+    //console.log(`The Tom Token Address is: ${tomTokenAddress}`);
+    //console.log(`The Gov Alpha Address is: ${governorAlphaAddress}`);
 };
 
 

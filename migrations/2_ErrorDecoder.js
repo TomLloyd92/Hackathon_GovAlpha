@@ -5,6 +5,6 @@ module.exports = async function (deployer) {
     const errorDecoder = await ErrorDecoder.deployed();
 
     const errorDecoderAddress = errorDecoder.address;
-    console.log(`The Error Decoder Address is: ${errorDecoderAddress}`);
+    //console.log(`The Error Decoder Address is: ${errorDecoderAddress}`);
 };
 
